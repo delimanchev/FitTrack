@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.idea/
+
+# .NET
+**/bin/
+**/obj/
+*.user
+
+# Node.js
+**/node_modules/
+**/dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+**/secrets/
