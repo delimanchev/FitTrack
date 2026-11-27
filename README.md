@@ -4,7 +4,7 @@ FitTrack je študentski projekt pri predmetu SUA za načrtovanje treningov, bele
 
 **Stanje Naloge 2:** razvoj se začenja. Ta README določa načrt, API pogodbe in predvideni lokalni zagon. Ukazi za zagon aplikacije bodo izvedljivi, ko bodo storitve in `compose.yaml` pripravljeni.
 
-[GitHub Issues](https://github.com/delimanchev/FitTrack/issues) · [Kanban za Nalogo 2](https://github.com/users/AnjaTodorov/projects/7/views/1)
+[GitHub Issues](https://github.com/delimanchev/FitTrack/issues) · [Kanban za Nalogo 2](https://github.com/users/delimanchev/projects/6/views/2)
 
 ## Ekipa in razvojni obseg
 
